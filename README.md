@@ -8,8 +8,6 @@
 
 - 🤝 I’m looking for help with [Zoho Books Api](https://github.com/gvsrepins/zohobooksapi/)
 
-- 👨‍💻 All of my projects are available at [https://gabrielsilva.me](https://gabrielsilva.me)
-
 - 💬 Ask me about **PHP, Laravel**
 
 - 📫 How to reach me **hey@gabrielsilva.me**
