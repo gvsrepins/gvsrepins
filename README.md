@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Silva</h1>
-<h3 align="center">I'm a passionate backend developer, entrepreneur, and general technology enthusiast living in Minas Gerais, Brazil. I've worked with some startups to help them develop their ideas into profitable businesses.</h3>
+<p align="center">I'm a passionate backend developer, entrepreneur, and general technology enthusiast living in Minas Gerais, Brazil. I've worked with some startups to help them develop their ideas into profitable businesses.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gvsrepins&theme=light" alt="gvsrepins" /></a> </p>
 
@@ -9,8 +9,6 @@
 - 🤝 I’m looking for help with [Zoho Books Api](https://github.com/gvsrepins/zohobooksapi/)
 
 - 👨‍💻 All of my projects are available at [https://gabrielsilva.me](https://gabrielsilva.me)
-
-- 📝 I regularly write articles on [https://gabrielsilva.me/blog](https://gabrielsilva.me/blog)
 
 - 💬 Ask me about **PHP, Laravel**
 
