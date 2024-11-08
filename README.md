@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Silva</h1>
 <p align="center">I'm a passionate backend developer, entrepreneur, and general technology enthusiast living in Minas Gerais, Brazil. I've worked with some startups to help them develop their ideas into profitable businesses.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gvsrepins&theme=light" alt="gvsrepins" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gvsrepins&column=3&margin-w=15&margin-h=15&theme=dracula" alt="gvsrepins" /></a> </p>
 
 
 - 🌱 I’m currently learning **ReactJs e Kubernetes**
