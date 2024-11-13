@@ -79,4 +79,4 @@ I’m a backend developer, entrepreneur, and tech enthusiast from Minas Gerais, 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gvsrepins&show_icons=true&locale=en" alt="gvsrepins" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gvsrepins" alt="gvsrepins" /></p>
+![gvsrepins](https://github-readme-streak-stats.herokuapp.com/?user=gvsrepins)
