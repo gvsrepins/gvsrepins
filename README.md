@@ -1,6 +1,6 @@
-# Hi 👋</h1>
+# Hi 👋, I'm Gabriel Silva
 
-I’m a backend developer, entrepreneur, and tech enthusiast from Minas Gerais, Brazil. My love for technology sparked when I was twelve, and since kicking off my career in 2009, I’ve dived into everything from development and product management to cloud infrastructure and team leadership. I've had the chance to work with startups, helping turn creative ideas into thriving businesses. I’m especially passionate about where product, engineering, and business meet, and I’m all about building solutions that make a real impact!
+Backend developer, entrepreneur, and tech enthusiast from Minas Gerais, Brazil. My love for technology sparked when I was twelve. Since kicking off my career in 2009, I’ve dived into everything from development and product management to cloud infrastructure and team leadership. I've had the chance to work with startups, helping turn creative ideas into thriving businesses. I’m incredibly passionate about where product, engineering, and business meet and about building solutions that make a real impact!
 
 ![gvsrepins](https://github-profile-trophy.vercel.app/?username=gvsrepins&column=4&margin-w=15&margin-h=15&theme=dracula)
 
